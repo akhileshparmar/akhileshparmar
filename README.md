@@ -12,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 It is good to see you here on my profile.
 
 #### Skills 🤖
-<code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1615177532~hmac=5c8b72befe4ca8e6132c6183c30d42a6" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/92992841580802957-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/19681752361536207300-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/16876668881551942134-512.png" /></code>
