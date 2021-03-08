@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 #### Skills 🤖
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/92992841580802957-512.png" /></code>
+<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" /></code>
