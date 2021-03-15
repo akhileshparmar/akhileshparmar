@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/16876668881551942134-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/20749930291548330949-512.png" /></code>
 
-#### Top Languages 👨‍💻
+### Top Languages 👨‍💻
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=akhiparmar&show_icons=true&theme=radical'/>
