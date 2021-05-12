@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" /></code>
+<code><img height="50" src="https://www.flaticon.com/svg/vstatic/svg/718/718064.svg?token=exp=1620824076~hmac=4309ca7dab370d41b5478d345176b93b" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" /></code>
 <code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/19681752361536207300-512.png" /></code>
