@@ -8,20 +8,33 @@
 
 ## Skills 🤖
 
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/html-52732337.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/css-8e01670c.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/javascript-0ac5e3cc.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/typescript-9f349b95.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/mongodb-5b345000.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/expressjs-2f020394.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/reactjs-9fe43511.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/nodejs-d346bacb.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/nextjs-584655e0.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/graphql-7a948f4d.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/git-3f0b1bae.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/redux-024d1e3f.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/tailwind-2a43431b.svg" />
-<img height="50" width="50" src="https://akhileshparmar.github.io/assets/bootstrap-b473ea9e.svg" />
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/html.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/css.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/javascript.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/typescript.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/mongodb.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/expressjs(b).svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/reactjs.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/nodejs.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/nextjs(b).svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/graphql.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/git.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/redux.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/tailwind.svg" />
+
+<img height="60" width="60" style="display:inline;" src="https://raw.githubusercontent.com/akhileshparmar/akhileshparmar.github.io/0d0976dfd6a215aff7da54d3b6e03aa08bcd54c3/src/images/bootstrap.svg" />
 
 ## Top Languages 👨‍💻
 
