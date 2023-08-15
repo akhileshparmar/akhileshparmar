@@ -1,26 +1,28 @@
-## Hi there 👋, This is Akhilesh Parmar 
+# Hi there 👋, This is Akhilesh Parmar
 
-<!--
-**akhiparmar/akhiparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-
-- 🔭 I’m a Full Stack Django Developer.
-- 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
+- 🔭 I’m a Full Stack Web Developer.
+- 🌱 My tech stack is MERN (MongoDB, Express.js, React, Node.js) stack.
 - 😄 It is good to see you here on my profile.
+- 📫 Reach me **iamakhileshparmar@gmail.com**
+- 🌱 I’m currently learning **Next.js and GraphQl**
 
 ## Skills 🤖
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png" /></code>
-<code><img height="50" src="https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/19681752361536207300-512.png" /></code>
-<code><img height="50" src="https://pics.freeicons.io/uploads/icons/png/16876668881551942134-512.png" /></code>
 
-### Top Languages 👨‍💻
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=akhiparmar&show_icons=true&theme=radical'/>
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/html-52732337.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/css-8e01670c.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/javascript-0ac5e3cc.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/typescript-9f349b95.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/mongodb-5b345000.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/expressjs-2f020394.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/reactjs-9fe43511.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/nodejs-d346bacb.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/nextjs-584655e0.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/graphql-7a948f4d.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/git-3f0b1bae.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/redux-024d1e3f.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/tailwind-2a43431b.svg" />
+<img height="50" width="50" src="https://akhileshparmar.github.io/assets/bootstrap-b473ea9e.svg" />
+
+## Top Languages 👨‍💻
+
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshparmar&langs_count=8&layout=compact&show_icons=true&theme=radical'/>
