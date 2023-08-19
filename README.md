@@ -8,23 +8,23 @@
 
 ## Skills 🤖
 
-<div>
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/html-52732337.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/css-8e01670c.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/javascript-0ac5e3cc.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/typescript-9f349b95.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/mongodb-5b345000.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/expressjs-2f020394.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/reactjs-9fe43511.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/nodejs-d346bacb.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/nextjs-584655e0.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/graphql-7a948f4d.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/git-3f0b1bae.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/redux-024d1e3f.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/tailwind-2a43431b.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/bootstrap-b473ea9e.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/cypress-d5b022ea.svg" />
-<img height="60" width="60" src="https://akhileshparmar.github.io/assets/jest-0b8c0400.svg" />
+<div style="background-color:#0a192f; padding:1em; border-radius:0.5em;">
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/html-52732337.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/css-8e01670c.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/javascript-0ac5e3cc.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/typescript-9f349b95.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/mongodb-5b345000.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/expressjs-2f020394.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/reactjs-9fe43511.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/nodejs-d346bacb.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/nextjs-584655e0.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/graphql-7a948f4d.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/git-3f0b1bae.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/redux-024d1e3f.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/tailwind-2a43431b.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/bootstrap-b473ea9e.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/cypress-d5b022ea.svg" />
+<img style="margin:1em" height="60" width="60" src="https://akhileshparmar.github.io/assets/jest-0b8c0400.svg" />
 </div>
 
 ## Top Languages 👨‍💻
